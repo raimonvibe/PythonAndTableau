@@ -56,5 +56,38 @@ These output files can be directly imported into Tableau for visualization and f
 ## Usage
 Each script can be run independently based on your analysis needs. Make sure to place the required data files in the same directory as the scripts before running them.
 
+## Tableau Dashboards
+The processed data from these Python scripts has been visualized in Tableau Public. Below are the interactive dashboards created from each analysis:
+
+### Value Inc. Sales Dashboard
+![Value Inc. Sales Dashboard](assets/images/value_inc_dashboard.png)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/raimon3989/viz/ValueInc_DataAlalysis/Dashboard1)
+
+This dashboard visualizes the sales data analysis, showing:
+- Sales and cost trends over time
+- Profit analysis by client demographics
+- Business type performance
+- Geographic distribution of sales
+
+### BlogMe News Analysis Dashboard
+![BlogMe News Analysis Dashboard](assets/images/blogme_dashboard.png)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/raimon3989/viz/BlogMeNewsAnalysis_16710099100050/BlogMeNewsDasboard)
+
+This dashboard presents the news article analysis, featuring:
+- Engagement metrics over time
+- Source-wise article distribution
+- Sentiment analysis results
+- Keyword analysis visualization
+
+### Blue Bank Loan Analysis Dashboard
+![Blue Bank Loan Analysis Dashboard](assets/images/bluebank_dashboard.png)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/raimon3989/viz/BlueBank_16706669670710/BlueBankLoan)
+
+This dashboard shows the loan data analysis, including:
+- FICO score distribution
+- Interest rate analysis
+- Income-based metrics
+- Loan purpose categorization
+
 ## Note
 This repository demonstrates the integration between Python data processing and Tableau visualization capabilities, showcasing how to prepare and transform data programmatically before creating visual analytics in Tableau.
